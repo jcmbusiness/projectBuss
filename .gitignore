@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+/.vs
+/x64/Debug
+/ConsoleApplication1/x64/Debug/ConsoleA.c4c6c70e.tlog
+/ConsoleApplication1/x64/Debug
+*.user
+*.filters
+*.vcxproj
